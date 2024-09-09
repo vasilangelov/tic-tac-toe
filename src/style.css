@@ -4,6 +4,10 @@ body {
   align-items: center;
   justify-content: center;
 
+  margin-inline: auto;
+  padding: 1rem;
+
+  max-width: 30rem;
   min-height: 100dvh;
 }
 
